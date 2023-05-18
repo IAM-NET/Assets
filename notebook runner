@@ -1,0 +1,3 @@
+# Create the runner and start the configuration experience
+$ ./config.sh --url https://github.com/VIRTUAL-INSTRUMENT --token A326GHN4QJ3YYO6QJ7XTQ33EMZ6WW# Last step, run it!
+$ ./run.sh
